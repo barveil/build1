@@ -1316,5 +1316,16 @@
     "status": "failed",
     "created_at": "2026-10-28T21:56:32.520Z",
     "completed_at": "2026-10-28T22:01:03.235Z"
+  },
+  "mvsnttg1j7e6p": {
+    "job_id": "mvsnttg1j7e6p",
+    "release_id": 427237910,
+    "release_tag": "build-mvsnttg1j7e6p",
+    "run_id": 40776811672,
+    "user_id": 8771051580,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-10-28T22:02:30.142Z"
   }
 }
