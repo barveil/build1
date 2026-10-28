@@ -1337,7 +1337,8 @@
     "user_id": 8771051580,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-10-28T22:26:17.642Z"
+    "status": "success",
+    "created_at": "2026-10-28T22:26:17.642Z",
+    "completed_at": "2026-10-28T22:33:09.485Z"
   }
 }
