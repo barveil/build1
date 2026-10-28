@@ -1328,5 +1328,16 @@
     "status": "success",
     "created_at": "2026-10-28T22:02:30.142Z",
     "completed_at": "2026-10-28T22:11:31.195Z"
+  },
+  "mvsoofhz8cyft": {
+    "job_id": "mvsoofhz8cyft",
+    "release_id": 427256519,
+    "release_tag": "build-mvsoofhz8cyft",
+    "run_id": 40779954007,
+    "user_id": 8771051580,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-10-28T22:26:17.642Z"
   }
 }
